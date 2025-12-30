@@ -19,12 +19,13 @@
 ---
 
 ### 🚀 About Me
-- [cite_start]🎓 **AI & Data Science student** at **Global Academy of Technology** (GPA: 9.48/10) [cite: 10, 11]
-- [cite_start]🔭 Specialized in **OCR, Computer Vision**, and **Generative AI** [cite: 7]
-- [cite_start]🌱 Currently mastering **C++**, **Vector DB** and **Orchestration Frameworks** [cite: 32, 36]
+- 🎓 **AI & Data Science student** at **Global Academy of Technology** (GPA: 9.48/10)
+- 💼 Former **Trainee Software Engineer Intern** at **CGI**
+- 🔭 Specialized in **OCR, Computer Vision**, and **Generative AI**
+- 🌱 Currently mastering **C++**, **Vector DB** and **Orchestration Frameworks**
 - 🤝 Open to collaborating on **Machine Learning, Agentic Systems**, and **Vision AI**
-- [cite_start]🎮 Passionate about **Technological Innovation, Video Games**, and **Music** [cite: 44]
-- [cite_start]📍 Based in **Bangalore, India** [cite: 1]
+- 🎮 Passionate about **Technological Innovation, Video Games**, and **Music**
+- 📍 Based in **Bangalore, India**
 
 ---
 
@@ -44,34 +45,42 @@
 ### 🎯 Featured Projects
 
 #### 🛡️ Face Anti-Spoofing System
-- [cite_start]Developed a dual-approach system to detect spoofed faces using **LBP + SVM** and **lightweight CNN**[cite: 17].
-- [cite_start]Implemented robust preprocessing and real-time webcam testing with **OpenCV**[cite: 18].
-- [cite_start]Modular pipeline supporting model persistence ($joblib/.h5$) and **Streamlit** deployment[cite: 19].
+- Developed a dual-approach system to detect spoofed faces using **LBP + SVM** and **lightweight CNN**.
+- Implemented robust preprocessing and real-time webcam testing with **OpenCV**.
+- Modular pipeline supporting model persistence (joblib/.h5) and **Streamlit** deployment.
 
 #### 📄 AI-Powered Document Search (RAG System)
-- [cite_start]Intelligent document search and QA system using **RAG** with **Google Gemini API**[cite: 24, 28].
-- [cite_start]Combined **FAISS** vector similarity search and **Sentence-Transformers** embeddings[cite: 29].
-- [cite_start]Secure **Streamlit** interface for real-time, explainable AI responses[cite: 30].
+- Intelligent document search and QA system using **RAG** with **Google Gemini API**.
+- Combined **FAISS** vector similarity search and **Sentence-Transformers** embeddings.
+- Secure **Streamlit** interface for real-time, explainable AI responses.
 
 #### 🖼️ Automatic Image Enhancer
-- [cite_start]Enhanced images using **CLAHE** for brightness/contrast improvement[cite: 22].
-- [cite_start]Developed real-time upload and side-by-side visualization interface[cite: 23].
-- [cite_start]Built with **Python, NumPy**, and **OpenCV**[cite: 20].
+- Enhanced images using **CLAHE** for brightness/contrast improvement.
+- Developed real-time upload and side-by-side visualization interface.
+- Built with **Python, NumPy**, and **OpenCV**.
 
 ---
 
+### 💼 Experience
+
+**Trainee Software Engineer Intern @ CGI** (2025)
+- Developed an **OCR pipeline** using **PaddleOCR** for high-accuracy data extraction.
+- Integrated text into **RAG pipelines** for intelligent document processing.
+- Automated preprocessing workflows and text-to-answer mapping systems.
+
+---
 
 ### 🏆 Certifications
-- [cite_start]**NPTEL:** Python for Data Science, Data Science for Engineers[cite: 38].
-- [cite_start]**Infosys Springboard:** NLP and Web Technology, Python Foundation, Front-End Web Developer[cite: 39].
-- [cite_start]**NPTEL:** Cybersecurity and Privacy[cite: 41].
+- **NPTEL:** Python for Data Science, Data Science for Engineers.
+- **Infosys Springboard:** NLP and Web Technology, Python Foundation, Front-End Web Developer.
+- **NPTEL:** Cybersecurity and Privacy.
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohxn08&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn08&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -81,7 +90,7 @@
 - 🤖 **AI/ML projects and agentic systems**
 - 💻 **Vision-based automation**
 
-[cite_start]Reach out: **rohanramaswamy12@gmail.com** [cite: 3]
+Reach out: **rohanramaswamy12@gmail.com**
 
 ---
 ⭐ From **rohxn08**
