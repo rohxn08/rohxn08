@@ -49,17 +49,17 @@
 
 ### 🎯 Featured Projects
 
-#### 🛡️ Face Anti-Spoofing System
+#### 🛡️ [Face Anti-Spoofing System](https://github.com/rohxn08/Face-anti-spoofing-system)
 - Developed a dual-approach system to detect spoofed faces using **LBP + SVM** and **lightweight CNN**.
 - Implemented robust preprocessing and real-time webcam testing with **OpenCV**.
 - Modular pipeline supporting model persistence (joblib/.h5) and **Streamlit** deployment.
 
-#### 📄 AI-Powered Document Search (RAG System)
+#### 📄 [AI-Powered Document Search (RAG System)](https://github.com/rohxn08/AI-powered-Document-search-using-RAG)
 - Intelligent document search and QA system using **RAG** with **Google Gemini API**.
 - Combined **FAISS** vector similarity search and **Sentence-Transformers** embeddings.
 - Secure **Streamlit** interface for real-time, explainable AI responses.
 
-#### 🖼️ Automatic Image Enhancer
+#### 🖼️ [Automatic Image Enhancer](https://github.com/rohxn08/Automatic-Image-Enhancer)
 - Enhanced images using **CLAHE** for brightness/contrast improvement.
 - Developed real-time upload and side-by-side visualization interface.
 - Built with **Python, NumPy**, and **OpenCV**.
