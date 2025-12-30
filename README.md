@@ -20,7 +20,6 @@
 
 ### 🚀 About Me
 - 🎓 **AI & Data Science student** at **Global Academy of Technology** (GPA: 9.48/10)
-- 💼 Former **Trainee Software Engineer Intern** at **CGI**
 - 🔭 Specialized in **OCR, Computer Vision**, and **Generative AI**
 - 🌱 Currently mastering **C++**, **Vector DB** and **Orchestration Frameworks**
 - 🤝 Open to collaborating on **Machine Learning, Agentic Systems**, and **Vision AI**
