@@ -69,17 +69,23 @@
 ### 🏆 Certifications
 - **NPTEL:** Python for Data Science, Data Science for Engineers.
 - **Infosys Springboard:** NLP and Web Technology, Python Foundation, Front-End Web Developer.
-- **NPTEL:** Cybersecurity and Privacy.
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohxn08&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohxn08&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohxn08&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn08&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohxn08&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
+
+
 
 ### 🤝 Let's Collaborate!
 - 🔧 **Low-level systems programming**
