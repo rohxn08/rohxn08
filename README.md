@@ -60,14 +60,7 @@
 
 ---
 
-### 💼 Experience
 
-**Trainee Software Engineer Intern @ CGI** (2025)
-- Developed an **OCR pipeline** using **PaddleOCR** for high-accuracy data extraction.
-- Integrated text into **RAG pipelines** for intelligent document processing.
-- Automated preprocessing workflows and text-to-answer mapping systems.
-
----
 
 ### 🏆 Certifications
 - **NPTEL:** Python for Data Science, Data Science for Engineers.
