@@ -59,6 +59,12 @@
 - Combined **FAISS** vector similarity search and **Sentence-Transformers** embeddings.
 - Secure **Streamlit** interface for real-time, explainable AI responses.
 
+#### 🤟 [Sign Language Translator](https://github.com/rohxn08/sign-language-translator)
+-Built a real-time sign language detection system using **Python, OpenCV, and MediaPipe**.
+- Implemented webcam-based gesture capture, dataset creation, and **custom classifier training**.
+- Enabled live inference with a **web interface**, including optional **speech output** and model explainability.
+
+
 #### 🖼️ [Automatic Image Enhancer](https://github.com/rohxn08/Automatic-Image-Enhancer)
 - Enhanced images using **CLAHE** for brightness/contrast improvement.
 - Developed real-time upload and side-by-side visualization interface.
