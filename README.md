@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -56,38 +56,39 @@
 
 ---
 
-### 🎯 Featured Projects
+###  Featured Projects
 
-#### 🛡️ [Face Anti-Spoofing System](https://github.com/rohxn08/Face-anti-spoofing-system)
+####  [Face Anti-Spoofing System](https://github.com/rohxn08/Face-anti-spoofing-system)
 - Developed a dual-approach system to detect spoofed faces using **LBP + SVM** and **lightweight CNN**.
 - Implemented robust preprocessing and real-time webcam testing with **OpenCV**.
 - Modular pipeline supporting model persistence (joblib/.h5) and **Streamlit** deployment.
 
-#### 📄 [AI-Powered Document Search (RAG System)](https://github.com/rohxn08/AI-powered-Document-search-using-RAG)
-- Intelligent document search and QA system using **RAG** with **Google Gemini API**.
-- Combined **FAISS** vector similarity search and **Sentence-Transformers** embeddings.
-- Secure **Streamlit** interface for real-time, explainable AI responses.
+#### [BrainBolt – Multimodal RAG Learning Assistant](https://github.com/rohxn08/BrainBolt)
+- Built a **multimodal RAG system** supporting PDFs, images, web links, and YouTube videos using **FAISS-based semantic retrieval**
+- Implemented **context-grounded summarization and adaptive quiz generation** (Easy/Medium/Hard) powered by **Google Gemini**
+- Optimized retrieval and generation pipelines with **chunked embeddings and controlled decoding**, achieving **~24–35s end-to-end summarization latency**
 
-#### 🤟 [Sign Language Translator](https://github.com/rohxn08/sign-language-translator)
+
+####  [Sign Language Translator](https://github.com/rohxn08/sign-language-translator)
 - Built a real-time sign language detection system using **Python, OpenCV, and MediaPipe**.
 - Implemented webcam-based gesture capture, dataset creation, and **custom classifier training**.
 - Enabled live inference with a **web interface**, including optional **speech output** and model explainability.
 
 
-#### 🖼️ [Automatic Image Enhancer](https://github.com/rohxn08/Automatic-Image-Enhancer)
+####  [Automatic Image Enhancer](https://github.com/rohxn08/Automatic-Image-Enhancer)
 - Enhanced images using **CLAHE** for brightness/contrast improvement.
 - Developed real-time upload and side-by-side visualization interface.
 - Built with **Python, NumPy**, and **OpenCV**.
 
 ---
 
-### 🏆 Certifications
+###  Certifications
 - **NPTEL:** Python for Data Science, Data Science for Engineers.
 - **Infosys Springboard:** NLP and Web Technology, Python Foundation, Front-End Web Developer.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohxn08&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
