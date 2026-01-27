@@ -1,4 +1,4 @@
-# Hi there, I'm Rohan R 👋
+# Hi there, I'm Rohan R 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Computer+Vision+%26+ML+Enthusiast;Building+Intelligent+RAG+Systems;Passionate+about+Innovation" alt="Typing SVG" />
@@ -21,13 +21,13 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **AI & Data Science student** at **Global Academy of Technology** (GPA: 9.48/10)
-- 🔭Focused on **Computer Vision** and **OCR systems**, with hands-on experience building **Generative AI (RAG)** applications
-- 🌱 Actively learning **vector databases** and **LLM orchestration** through hands-on projects
-- 🤝 Open to collaborating on **Machine Learning, Agentic Systems**, and **Vision AI**
-- 🎮 Passionate about **Technological Innovation, Video Games**, and **Music**
-- 📍 Based in **Bangalore, India**
+###  About Me
+-  **AI & Data Science student** at **Global Academy of Technology** (GPA: 9.48/10)
+- Focused on **Computer Vision** and **OCR systems**, with hands-on experience building **Generative AI (RAG)** applications
+-  Actively learning **vector databases** and **LLM orchestration** through hands-on projects
+-  Open to collaborating on **Machine Learning, Agentic Systems**, and **Vision AI**
+-  Passionate about **Technological Innovation, Video Games**, and **Music**
+- Based in **Bangalore, India**
 
 ---
 
@@ -103,12 +103,12 @@
 
 
 
-### 🤝 Let's Collaborate!
-- 🔧 **Low-level systems programming**
-- 🤖 **AI/ML projects and agentic systems**
-- 💻 **Vision-based automation**
+###  Let's Collaborate!
+-  **Low-level systems programming**
+-  **AI/ML projects and agentic systems**
+- **Vision-based automation**
 
 Reach out: **rohanramaswamy12@gmail.com**
 
 ---
-⭐ From **rohxn08**
+ From **rohxn08**
