@@ -23,8 +23,8 @@
 
 ### 🚀 About Me
 - 🎓 **AI & Data Science student** at **Global Academy of Technology** (GPA: 9.48/10)
-- 🔭 Specialized in **OCR, Computer Vision**, and **Generative AI**
-- 🌱 Currently mastering **Vector DB** and **Orchestration Frameworks**
+- 🔭Focused on **Computer Vision** and **OCR systems**, with hands-on experience building **Generative AI (RAG)** applications
+- 🌱 Actively learning **vector databases** and **LLM orchestration** through hands-on projects
 - 🤝 Open to collaborating on **Machine Learning, Agentic Systems**, and **Vision AI**
 - 🎮 Passionate about **Technological Innovation, Video Games**, and **Music**
 - 📍 Based in **Bangalore, India**
