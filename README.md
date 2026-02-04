@@ -42,13 +42,13 @@
 
 
 #### **Generative AI, NLP & Vector Databases**
-![Generative AI](https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-black?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0EAD69?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-black?style=for-the-badge)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-black?style=for-the-badge)
+
 
 
 #### **Tools & Technologies**
