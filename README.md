@@ -58,27 +58,22 @@
 
 ###  Featured Projects
 
-####  [Face Anti-Spoofing System](https://github.com/rohxn08/Face-anti-spoofing-system)
-- Developed a dual-approach system to detect spoofed faces using **LBP + SVM** and **lightweight CNN**.
-- Implemented robust preprocessing and real-time webcam testing with **OpenCV**.
-- Modular pipeline supporting model persistence (joblib/.h5) and **Streamlit** deployment.
+#### [Face Anti-Spoofing System](https://github.com/rohxn08/Face-anti-spoofing-system)
+- Developed a **hybrid face anti-spoofing pipeline** using **MobileNetV2 CNN** and **LBP + SVM**, trained and validated on the **NUAA Imposter Database** and **CelebA-Spoof** datasets to detect print, replay, and screen attacks.
+- Achieved **~98% accuracy** (CNN) and **~97% accuracy** (LBP-SVM) with high precision and recall on real/spoof classification.
+- Built a **real-time verification system** with **OpenCV, Streamlit, and FastAPI**, supporting webcam inference, temporal smoothing, model persistence, and **Grad-CAM++ explainability**, reducing startup time from **~15–20s to <2s** after backend decoupling.
 
 #### [BrainBolt – Multimodal RAG Learning Assistant](https://github.com/rohxn08/BrainBolt)
-- Built a **multimodal RAG system** supporting PDFs, images, web links, and YouTube videos using **FAISS-based semantic retrieval**
-- Implemented **context-grounded summarization and adaptive quiz generation** (Easy/Medium/Hard) powered by **Google Gemini**
-- Optimized retrieval and generation pipelines with **chunked embeddings and controlled decoding**, achieving **~24–35s end-to-end summarization latency**
+- Built a **multimodal Retrieval-Augmented Generation (RAG)** system supporting **PDFs, images (OCR), web pages, and YouTube transcripts**, using **FAISS** and **Google Gemini embeddings** for semantic retrieval.
+- Implemented **context-grounded summarization and adaptive quiz generation** powered by **Google Gemini 1.5**, integrating OCR (Tesseract/PaddleOCR), web scraping, and transcript ingestion as knowledge sources.
+- Achieved **~24–35s end-to-end summarization latency**, with **TTFT ~3–7s** and retrieval times typically **9–16s** for document-based inputs, using a **FastAPI backend** and custom HTML/CSS/JS interface.
+
+#### [ZipRoute – AI-Powered Smart Route Optimization](https://github.com/rohxn08/ZipRoute)
+- Developed a **smart last-mile delivery system** combining **Nearest Neighbor + 2-Opt route optimization**, **XGBoost ETA prediction**, and **PaddleOCR-based address extraction**, integrated with **OpenRouteService** for routing and geocoding.
+- Trained the ETA prediction model on the **Delhivery logistics dataset (144k+ records)**, achieving **R² = 0.96** and improving **ETA accuracy from ±15 min to ±8 min (47% improvement)**.
+- Improved routing and backend performance with **~13–14% shorter routes**, **95% geocoding success rate**, and **~0.98s average API response time**, using a **FastAPI backend** and **Flutter mobile frontend**.
 
 
-####  [Sign Language Translator](https://github.com/rohxn08/sign-language-translator)
-- Built a real-time sign language detection system using **Python, OpenCV, and MediaPipe**.
-- Implemented webcam-based gesture capture, dataset creation, and **custom classifier training**.
-- Enabled live inference with a **web interface**, including optional **speech output** and model explainability.
-
-
-####  [Automatic Image Enhancer](https://github.com/rohxn08/Automatic-Image-Enhancer)
-- Enhanced images using **CLAHE** for brightness/contrast improvement.
-- Developed real-time upload and side-by-side visualization interface.
-- Built with **Python, NumPy**, and **OpenCV**.
 
 ---
 
