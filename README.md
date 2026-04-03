@@ -63,12 +63,12 @@
 - Achieved **~98% accuracy** (CNN) and **~97% accuracy** (LBP-SVM) with high precision and recall on real/spoof classification.
 - Built a **real-time verification system** with **OpenCV, Streamlit, and FastAPI**, supporting webcam inference, temporal smoothing, model persistence, and **Grad-CAM++ explainability**, reducing startup time from **~15–20s to <2s** after backend decoupling.
 
-#### [BrainBolt – Multimodal RAG Learning Assistant](https://github.com/rohxn08/BrainBolt)
+#### [BrainBolt – Multimodal RAG Learning Assistant](https://github.com/rohxn08/BrainBolt) · [Live Demo](https://rohxn08-brain-bolt.hf.space/)
 - Built a **multimodal Retrieval-Augmented Generation (RAG)** system supporting **PDFs, images (OCR), web pages, and YouTube transcripts**, using **FAISS** and **Google Gemini embeddings** for semantic retrieval.
 - Implemented **context-grounded summarization and adaptive quiz generation** powered by **Google Gemini 1.5**, integrating OCR (Tesseract/PaddleOCR), web scraping, and transcript ingestion as knowledge sources.
 - Achieved **~24–35s end-to-end summarization latency**, with **TTFT ~3–7s** and retrieval times typically **9–16s** for document-based inputs, using a **FastAPI backend** and custom HTML/CSS/JS interface.
 
-#### [ZipRoute – AI-Powered Smart Route Optimization](https://github.com/rohxn08/ZipRoute)
+#### [ZipRoute – AI-Powered Smart Route Optimization](https://github.com/rohxn08/ZipRoute) · [Live Demo](https://portfolio-pw0b.onrender.com/assets/projects/ziproute/index.html)
 - Developed a **smart last-mile delivery system** combining **Nearest Neighbor + 2-Opt route optimization**, **XGBoost ETA prediction**, and **PaddleOCR-based address extraction**, integrated with **OpenRouteService** for routing and geocoding.
 - Trained the ETA prediction model on the **Delhivery logistics dataset (144k+ records)**, achieving **R² = 0.96** and improving **ETA accuracy from ±15 min to ±8 min (47% improvement)**.
 - Improved routing and backend performance with **~13–14% shorter routes**, **95% geocoding success rate**, and **~0.98s average API response time**, using a **FastAPI backend** and **Flutter mobile frontend**.
