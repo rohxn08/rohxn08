@@ -34,7 +34,7 @@
 
 ### Experience
 
-#### AI Engineer Intern, Kenpath Technologies (Aug 2026 – Present)
+#### AI Engineer Intern, Kenpath Technologies (Aug 2026 – Oct 2026)
 - Cut per-tool-call latency in **PULSE**, a real-time voice AI interview platform (**LiveKit, Gemini Live**), from ~3s to ~1.8s through log-based bottleneck analysis, and tuned VAD and barge-in behaviour.
 - Built shareable per-candidate interview links, interview cloning and PDF export of AI insights, and deployed PULSE on **AWS EC2** with **Docker Compose**.
 - Built expert audio capture with **LiveKit Egress** and turn-level timestamps, linking each transcript line to its source recording.
